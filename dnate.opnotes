@@ -1,1 +1,2 @@
-
+bsacn script tells me that there is a host 10.10.110.100
+sudo nmap -Pn -sT -p- 10.10.110.100 -port scan 
