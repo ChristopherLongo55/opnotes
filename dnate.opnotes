@@ -1,2 +1,20 @@
 bsacn script tells me that there is a host 10.10.110.100
 sudo nmap -Pn -sT -p- 10.10.110.100 -port scan 
+cewl http://10.10.110.100:65000/wordpress/index.php/languages-and-frameworks/ > wordlist.txt -- thsi toled me james password see credz for what it is 
+
+
+
+### credz
+usernames         passwords 
+James             Toyota
+### woker names 
+James
+Nathan
+AJ
+Kevin
+Balthazar
+
+
+
+
+https://enterprise.hackthebox.com/pro-lab/4/3708/writeup write up
